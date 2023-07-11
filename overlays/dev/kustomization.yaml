@@ -2,3 +2,7 @@
 bases:
 - postgres/
 - rucio/
+- strimzi/clusterRoleBinding/
+- strimzi/operator/
+- kafka/
+- redis/
